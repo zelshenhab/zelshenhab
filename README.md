@@ -58,7 +58,7 @@ I enjoy building mobile apps with **Flutter** and designing backend systems with
 ---
 
 ### 📬 Connect with me
-- 📧 Email: [z.ezzat1212@gmail.com](mailto:z.ezzat1212@gmail.com)  
+- 📧 Email: [z.elshenhab2012@gmail.com](mailto:z.elshenhab2012@gmail.com)  
 - 💬 Telegram: [@zeyad_elshenhab](https://t.me/zeyad_elshenhab)  
 
 ---
