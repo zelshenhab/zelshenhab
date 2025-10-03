@@ -1,4 +1,4 @@
-# Hi there, I'm Zeyad 👋
+# Hey, It's Zeyad 👋
 
 🚀 **Software Developer | Mobile & Backend Enthusiast**  
 I enjoy building mobile apps with **Flutter** and designing backend systems with **Spring Boot, Flask, Node.js, and Go**.  
